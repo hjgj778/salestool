@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="842" started-at="2017-09-01T03:11:25Z" finished-at="2017-09-01T03:11:26Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="842" started-at="2017-09-01T03:11:25Z" finished-at="2017-09-01T03:11:26Z">
+      <class name="bankingproject.banking">
+        <test-method status="PASS" signature="testhello()[pri:0, instance:bankingproject.banking@458ad742]" name="testhello" duration-ms="35" started-at="2017-09-01T13:11:26Z" finished-at="2017-09-01T13:11:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testhello -->
+      </class> <!-- bankingproject.banking -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
